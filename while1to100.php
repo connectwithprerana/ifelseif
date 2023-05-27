@@ -1,7 +1,7 @@
 <?php
 $a =1;
 while($a<=100){
-    echo $a . " ";
+    echo $a ." ";
     if($a%10==0){
         echo "<br>";
     }
